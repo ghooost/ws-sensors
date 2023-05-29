@@ -1,0 +1,14 @@
+.root td {
+  padding: 4px;
+  white-space: nowrap;
+}
+
+.connected {
+  width: 32px;
+}
+
+.name {
+  width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

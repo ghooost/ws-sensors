@@ -1,0 +1,8 @@
+.root {
+  display: flex;
+}
+
+.selected {
+  background-color: Highlight;
+  color: HighlightText;
+}
